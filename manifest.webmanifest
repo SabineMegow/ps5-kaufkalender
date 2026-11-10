@@ -1,0 +1,19 @@
+{
+  "name": "Mission PS5 – Kaufkalender Weihnachten 2026",
+  "short_name": "Mission PS5",
+  "description": "Familien-Kaufkalender: Konsolen, Bundles, Spiele und Zubehör",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#0b1020",
+  "lang": "de",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
